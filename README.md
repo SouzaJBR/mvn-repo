@@ -1,9 +1,10 @@
 # mvn-repo
+
 Repositório Maven com os JARs externos usados nos projetos
 
-###Como usar?
-Adicione a lista de repositórios no "pom.xml" o código
+## Como usar?
 
+Adicione a lista de repositórios no "pom.xml" o código
 
 ```xml
     <repository>
